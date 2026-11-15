@@ -163,6 +163,3 @@ Testing is complete when:
 | Test results | Product Owner | Written report | End of testing |
 | Final summary | Entire team | GitHub repository | Day 5 |
 
-## AI Transparency
-
-AI assistance was used to help organize and format this test plan. The plan is based on the provided North Vacation Booking README. Actual testing has not yet been performed.
