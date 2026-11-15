@@ -6,35 +6,35 @@
 **Application:** North Vacation Booking  
 **Status:** Test Planning
 
-## 1. Test Context
+## 1.  Testing Environment
 
-### Test Objectives
-1. Verify that users can select a rental, enter booking dates, choose the number of guests, and create a booking.
-2. Verify that the application prevents invalid bookings and displays booking information correctly.
+### Test Objectives 
+1.  Check that users can select a rental, provide booking dates, select number of guests and create a booking.
+2.  Test that the application does not allow invalid bookings and shows the booking information accurately.
 
-### In Scope
-- Rental selection
-- Check-in and checkout dates
-- Guest count
-- Creating bookings
-- Viewing bookings
-- Increasing and decreasing values
-- Resetting values
-- Form validation
+### Scope of the Study
+-- Picking a rental
+- Dates for check-in and check-out
+- Number of persons
+- Making bookings
+- View reservations
+- Values increasing and decreasing
+- Resetting of values
+- Validate the form
 
-### Out of Scope
-- Payment processing
-- Email notifications
-- Third-party integrations
-- Performance testing
+### Beyond the Scope
+- Processing payments
+- Email notice
+- Integrations with third parties
+- Tests for performance
 
-### Test Basis
-The North Vacation Booking requirements and the application features described in the README.
+### Testing Basis
+Requirements for North Vacation Booking and functionalities of the program as specified in the README.
 
-### Assumptions and Constraints
-- A working application will be available for testing.
-- Testing will take five working days.
-- Developers will provide support when problems occur.
+### Assumptions & Limitations
+- A functioning app to test against.
+- Test will be done within five working days.
+- Developers are there to help you out in case of any issues.
 
 ## 2. Roles and Responsibilities
 
